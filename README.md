@@ -41,7 +41,9 @@ taking the time to gather new examples of faces without marks.
 - [Matplotlib](https://pypi.org/project/matplotlib/)
 
 ## Prerequisites
-All the dependencies and required libraries are included in the file 
+All the dependencies and required libraries are included in the file <code>requirements.text</code>
+For live demo simply download my model and face detector and run the <code>video streaming.py</code>
+Clone my repo and install the libraries and the run the <code>face mask detection.py</code> for the image output and <code>video streaming.py</code> for __real-time detection__. 
 
 ## Building Model
 

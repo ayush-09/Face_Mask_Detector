@@ -22,8 +22,8 @@ without mask.
 
 Our face mask detector didn't uses any morphed masked images dataset. 
 The dataset consists of **1,376 images** belonging to **two classes**:
-* with_mask: 690 images
-* without_mask: 686 images
+* __with_mask: 690 images__
+* __without_mask: 686 images__
 
 I choose this dataset because it consists artificially dataset of people wearing masks. If you 
 include the original images used to generate face mask samples as non-face mask samples, 
@@ -41,9 +41,9 @@ taking the time to gather new examples of faces without marks.
 - [Matplotlib](https://pypi.org/project/matplotlib/)
 
 ## Prerequisites
-All the dependencies and required libraries are included in the file <code>requirements.text</code>
-For live demo simply download my model and face detector and run the <code>video streaming.py</code>
-Clone my repo and install the libraries and the run the <code>face mask detection.py</code> for the image output and <code>video streaming.py</code> for __real-time detection__. 
+All the dependencies and required libraries are included in the file <code>requirements.text</code><br>
+For live demo simply download my model and face detector and run the <code>video streaming.py</code><br>
+Clone my repo and install the libraries and the run the <code>Face_Mask_detection.ipynb</code> colab notebook for the __image output__ and <code>video streaming.py</code> for __real-time detection__. 
 
 ## Building Model
 
@@ -69,13 +69,13 @@ of a classification report as shown below <br>
 
 The accuracy of the model is **96%** after trained and tested on the images.
 
-**INPUT Img:**
+* __INPUT Img:__
 ![41698](https://user-images.githubusercontent.com/51924622/96024304-2f255080-0e71-11eb-99b8-ebeb3a8cc03c.jpg)
 
-**OUTPUT Img:**
+* __OUTPUT Img:__
 ![result1](https://user-images.githubusercontent.com/51924622/96024381-47956b00-0e71-11eb-9994-5816814a0200.png)
 
-**Another Img:**
+* __Another OUTPUT Img:__
 
 ![result](https://user-images.githubusercontent.com/51924622/96024389-495f2e80-0e71-11eb-8419-e9a21f71daba.png)
 

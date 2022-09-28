@@ -42,8 +42,7 @@ taking the time to gather new examples of faces without marks.
 
 ## Prerequisites
 All the dependencies and required libraries are included in the file <code>requirements.text</code><br>
-For live demo simply download my model and face detector and run the <code>video streaming.py</code><br>
-Clone my repo and install the libraries and the run the <code>Face_Mask_detection.ipynb</code> colab notebook for the __image output__ and <code>video streaming.py</code> for __real-time detection__. 
+Clone my repo and install the libraries and the run the <code>Face_Mask_detection.ipynb</code> colab notebook for the __image output__.
 
 ## Building Model
 
